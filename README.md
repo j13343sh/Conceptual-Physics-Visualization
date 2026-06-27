@@ -34,6 +34,10 @@ The final chapter integrates these topics into a unified conceptual view of mode
 
 The materials are currently available in Japanese.
 
+This repository is intended as an educational resource for conceptual understanding.
+
+It is not a comprehensive reference and may be updated as the material evolves.
+
 ---
 
 ## 日本語
@@ -67,3 +71,7 @@ The materials are currently available in Japanese.
 最後に「統一の物理学」として、これらを一つの流れとして整理します。
 
 本教材では、「変換」という視点を軸に、数学・波動・量子力学がどのようにつながっているのかを可視化することを目指しています。
+
+本教材は概念理解を目的とした教育資料です。
+
+内容は継続的に改善・更新される可能性があります
