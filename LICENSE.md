@@ -5,7 +5,7 @@ Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4
 
 https://creativecommons.org/licenses/by-nc/4.0/
 
-
+Copyright (c) 2026 j13343sh
 
 # ライセンス
 
@@ -14,3 +14,5 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ライセンス本文：
 https://creativecommons.org/licenses/by-nc/4.0/
+
+Copyright (c) 2026 j13343sh
