@@ -1,12 +1,16 @@
-## Core Figures
+# SS / Super Summary Figures / 重要統合図
 
-| ID | Concept |
-|----|---------|
-| SS-01 | Fourier Transform |
-| SS-02 | Convolution Theorem |
-| SS-03 | Wave Equation |
-| SS-04 | Electromagnetic Wave |
-| SS-05 | Wave Function |
-| SS-06 | Position Space ↔ Momentum Space |
-| SS-07 | Wave Mechanics ↔ Matrix Mechanics |
-| SS-08 | Unified Physics |
+## English
+
+Super Summary figures visualize the most important structural concepts in the textbook.
+
+## 日本語
+
+教材全体の中核となる重要統合図です。
+
+例：
+
+- SS-01 フーリエ変換
+- SS-02 畳み込み定理
+- SS-03 波動方程式
+- SS-08 全体統一図
