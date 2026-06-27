@@ -15,8 +15,11 @@
   - [CH-06](ch-06.md)
   - [CH-07](ch-07.md)
 
-## Part III
+## Part III — Quantum Physics / 第3部 量子の世界
 - [PT-03](pt-03.md)
   - [CH-08](ch-08.md)
   - [CH-09](ch-09.md)
-  - [CH-10](ch-10.md)
+
+## Final Chapter / 終章
+
+- [CH-10 Unified Physics / 統一の物理学](ch-10.md)
