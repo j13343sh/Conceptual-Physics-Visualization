@@ -28,7 +28,7 @@ Figures are organized by their role in the textbook.
 
 ---
 
-## Naming Convention
+## Naming Convention / 命名規則
 
 ### English
 
