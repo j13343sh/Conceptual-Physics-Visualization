@@ -18,13 +18,13 @@ Figures are organized by their role in the textbook.
 
 | Folder | English | 日本語 |
 |---|---|---|
-| PT | Part Title Figures | 部タイトル図 |
-| CH | Chapter Header Figures | 章タイトル図 |
-| SS | Super Summary Figures | 重要統合図 |
-| S | Core Figures | 章の核となる図 |
-| A | Supporting Figures | 理解補助図 |
-| B | Optional Figures | 追加・発展図 |
-| C | Inverse Transform Figures | 逆変換シリーズ |
+| pt | Part Title Figures | 部タイトル図 |
+| ch | Chapter Header Figures | 章タイトル図 |
+| ss | Super Summary Figures | 重要統合図 |
+| s | Core Figures | 章の核となる図 |
+| a | Supporting Figures | 理解補助図 |
+| b | Optional Figures | 追加・発展図 |
+| c | Inverse Transform Figures | 逆変換シリーズ |
 
 ---
 
