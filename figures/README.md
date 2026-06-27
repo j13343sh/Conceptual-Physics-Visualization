@@ -28,39 +28,41 @@ Figures are organized by their role in the textbook.
 
 ---
 
-## Naming Policy / 命名方針
+## Naming Convention
 
-## English
+### English
 
-File names should preserve their figure IDs when possible.
+Figures are named using a simple ID-based convention.
 
 Examples:
 
-```text
-PT-01_Transformations.png
-CH-01_Fourier_Transform.png
-SS-01_Fourier_Transform.png
-S-01_Waves.png
-A-01_2D_FFT.png
-B-01_DFT.png
-C-01_Inverse_Fourier_Transform.png
-```
+- ch-01.png
+- pt-01.png
+- ss-01.png
+- s-01.png
+- a-01.png
+- b-01.png
+- c-01.png
 
-## 日本語
+The figure ID corresponds to the figure number used in the textbook.
 
-可能な限り図番号をファイル名に残します。
+---
+
+### 日本語
+
+図版は図番号に対応したシンプルな命名規則を採用しています。
 
 例：
 
-```text
-PT-01_変換の世界.png
-CH-01_フーリエ変換.png
-SS-01_フーリエ変換.png
-S-01_波とは何か.png
-A-01_2次元FFT.png
-B-01_DFT.png
-C-01_フーリエ逆変換.png
-```
+- ch-01.png
+- pt-01.png
+- ss-01.png
+- s-01.png
+- a-01.png
+- b-01.png
+- c-01.png
+
+図番号は教材本文中の図番号と対応しています。
 
 ---
 
